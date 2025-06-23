@@ -1,0 +1,303 @@
+Sale_ID,Date,Model,Variant,Color,City,Country,Dealer,Units_Sold,Price_USD,Discount_%,Payment_Mode
+1,2023-04-12,Urus,Base,Black,New York,USA,Lamborghini Miami,2,220000,5.0,Full Cash
+2,2021-11-05,Huracán,EVO,Red,Berlin,Germany,Lambo Berlin,1,240000,10.0,Finance
+3,2022-07-10,Revuelto,S,Yellow,Mumbai,India,Lamborghini Mumbai,3,400000,7.5,Lease
+4,2020-02-19,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,500000,2.0,Cryptocurrency
+5,2024-06-18,Huracán,Performante,Green,London,UK,Lambo London,2,260000,0.0,Finance
+6,2020-10-03,Urus,S,Red,Bangalore,India,Lamborghini Delhi,4,230000,6.5,Lease
+7,2022-12-21,Aventador,Base,Blue,Los Angeles,USA,Lambo LA,1,420000,12.0,Full Cash
+8,2021-06-09,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,470000,3.0,Full Cash
+9,2019-08-17,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,250000,8.5,Finance
+10,2024-01-12,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.0,Lease
+11,2023-03-05,Urus,Base,Red,Miami,USA,Lamborghini Miami,1,210000,5.0,Full Cash
+12,2022-06-19,Huracán,S,Yellow,Berlin,Germany,Lambo Berlin,2,245000,6.0,Finance
+13,2021-12-25,Revuelto,SVJ,Black,Mumbai,India,Lamborghini Mumbai,4,410000,10.0,Lease
+14,2019-11-14,Aventador,EVO,White,Dubai,UAE,Lamborghini Dubai,2,495000,1.5,Cryptocurrency
+15,2024-04-09,Huracán,Base,Green,London,UK,Lambo London,3,265000,0.0,Finance
+16,2021-05-30,Urus,Performante,Blue,Bangalore,India,Lamborghini Delhi,1,235000,7.0,Lease
+17,2023-08-01,Aventador,S,Red,Los Angeles,USA,Lambo LA,2,430000,9.0,Full Cash
+18,2020-09-12,Revuelto,Base,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,460000,3.5,Full Cash
+19,2022-11-20,Huracán,SVJ,White,Munich,Germany,Lambo Berlin,2,255000,8.0,Finance
+20,2023-01-27,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,220000,4.5,Lease
+21,2024-02-16,Urus,Base,Red,New York,USA,Lamborghini Miami,1,210000,5.0,Full Cash
+22,2022-10-03,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,250000,7.0,Finance
+23,2020-07-18,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,400000,12.0,Lease
+24,2023-05-26,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,480000,2.5,Cryptocurrency
+25,2024-03-11,Huracán,EVO,Green,London,UK,Lambo London,4,260000,0.0,Finance
+26,2021-08-08,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,1,240000,6.0,Lease
+27,2023-10-15,Aventador,Base,Red,Los Angeles,USA,Lambo LA,2,425000,11.0,Full Cash
+28,2020-12-01,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,470000,3.0,Full Cash
+29,2019-06-09,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,255000,8.5,Finance
+30,2024-01-20,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.0,Lease
+31,2022-05-21,Urus,Base,Red,Miami,USA,Lamborghini Miami,1,215000,5.0,Full Cash
+32,2023-07-13,Huracán,S,Yellow,Berlin,Germany,Lambo Berlin,2,248000,7.0,Finance
+33,2021-11-29,Revuelto,SVJ,Black,Mumbai,India,Lamborghini Mumbai,3,405000,9.0,Lease
+34,2020-03-22,Aventador,EVO,White,Dubai,UAE,Lamborghini Dubai,1,490000,2.0,Cryptocurrency
+35,2024-05-16,Huracán,Base,Green,London,UK,Lambo London,2,270000,0.0,Finance
+36,2022-09-07,Urus,Performante,Blue,Bangalore,India,Lamborghini Delhi,3,235000,7.5,Lease
+37,2023-11-11,Aventador,S,Red,Los Angeles,USA,Lambo LA,2,435000,10.0,Full Cash
+38,2020-01-15,Revuelto,Base,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,460000,3.0,Full Cash
+39,2022-08-18,Huracán,SVJ,White,Munich,Germany,Lambo Berlin,2,260000,8.0,Finance
+40,2023-04-20,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,225000,4.0,Lease
+41,2024-03-10,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,6.0,Full Cash
+42,2022-11-28,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,5.0,Finance
+43,2021-06-15,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,420000,8.5,Lease
+44,2020-10-07,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,495000,2.0,Cryptocurrency
+45,2023-12-05,Huracán,EVO,Green,London,UK,Lambo London,2,270000,0.0,Finance
+46,2021-09-23,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,240000,6.0,Lease
+47,2024-07-19,Aventador,Base,Red,Los Angeles,USA,Lambo LA,2,430000,12.0,Full Cash
+48,2019-05-30,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,460000,3.0,Full Cash
+49,2022-12-17,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,250000,7.5,Finance
+50,2023-01-30,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,4.5,Lease
+51,2022-04-14,Urus,Base,Blue,New York,USA,Lamborghini Miami,2,225000,5.5,Full Cash
+52,2021-08-29,Huracán,S,Red,Berlin,Germany,Lambo Berlin,1,245000,7.0,Finance
+53,2023-02-10,Revuelto,Performante,Yellow,Mumbai,India,Lamborghini Mumbai,3,410000,6.0,Lease
+54,2020-06-19,Aventador,EVO,Black,Dubai,UAE,Lamborghini Dubai,1,480000,3.0,Cryptocurrency
+55,2024-03-25,Huracán,Base,Green,London,UK,Lambo London,2,265000,0.0,Finance
+56,2022-11-07,Urus,SVJ,White,Bangalore,India,Lamborghini Delhi,4,235000,4.5,Lease
+57,2023-10-20,Aventador,S,Red,Los Angeles,USA,Lambo LA,1,430000,10.0,Full Cash
+58,2020-01-18,Revuelto,Base,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,3,460000,2.5,Full Cash
+59,2021-09-22,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,255000,7.5,Finance
+60,2023-05-30,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.0,Lease
+61,2024-07-12,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,5.0,Full Cash
+62,2022-06-18,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,250000,6.0,Finance
+63,2021-10-27,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,405000,8.0,Lease
+64,2020-04-23,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,490000,1.5,Cryptocurrency
+65,2023-12-14,Huracán,EVO,Green,London,UK,Lambo London,3,270000,0.0,Finance
+66,2021-03-03,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,2,235000,7.0,Lease
+67,2024-01-05,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,435000,9.0,Full Cash
+68,2019-07-20,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,455000,3.5,Full Cash
+69,2022-09-25,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,260000,8.0,Finance
+70,2023-03-18,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+71,2024-05-09,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.5,Full Cash
+72,2022-08-15,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,7.0,Finance
+73,2021-12-21,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,6.5,Lease
+74,2020-02-28,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.0,Cryptocurrency
+75,2023-09-10,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+76,2021-07-11,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,4,240000,6.0,Lease
+77,2024-06-22,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,11.0,Full Cash
+78,2019-11-17,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.0,Full Cash
+79,2022-10-03,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,250000,7.0,Finance
+80,2023-01-30,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+81,2024-02-28,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,6.0,Full Cash
+82,2022-11-08,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,5.5,Finance
+83,2021-06-14,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,420000,8.0,Lease
+84,2020-10-10,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,495000,1.0,Cryptocurrency
+85,2023-12-16,Huracán,EVO,Green,London,UK,Lambo London,2,270000,0.0,Finance
+86,2021-09-20,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,7.0,Lease
+87,2024-07-18,Aventador,Base,Red,Los Angeles,USA,Lambo LA,2,430000,10.0,Full Cash
+88,2019-05-29,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,460000,3.0,Full Cash
+89,2022-12-19,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,255000,7.5,Finance
+90,2023-04-21,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.5,Lease
+91,2024-03-09,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,5.0,Full Cash
+92,2022-11-29,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,250000,6.0,Finance
+93,2021-06-17,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,405000,7.5,Lease
+94,2020-04-24,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,490000,2.0,Cryptocurrency
+95,2023-12-13,Huracán,EVO,Green,London,UK,Lambo London,3,270000,0.0,Finance
+96,2021-03-01,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,2,235000,6.5,Lease
+97,2024-01-07,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,435000,9.0,Full Cash
+98,2019-07-21,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,455000,3.5,Full Cash
+99,2022-09-24,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,260000,8.0,Finance
+100,2023-03-19,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,4.5,Lease
+101,2024-05-11,Urus,Base,Red,New York,USA,Lamborghini Miami,2,220000,5.5,Full Cash
+102,2022-08-16,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,255000,6.5,Finance
+103,2021-12-23,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.0,Lease
+104,2020-03-01,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.5,Cryptocurrency
+105,2023-09-11,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+106,2021-07-13,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,4,240000,5.5,Lease
+107,2024-06-25,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+108,2019-11-18,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,3,460000,3.5,Full Cash
+109,2022-10-05,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,250000,6.5,Finance
+110,2023-02-02,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+111,2024-02-27,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,5.0,Full Cash
+112,2022-11-09,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,5.5,Finance
+113,2021-06-15,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,420000,7.5,Lease
+114,2020-10-11,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,495000,1.5,Cryptocurrency
+115,2023-12-17,Huracán,EVO,Green,London,UK,Lambo London,2,270000,0.0,Finance
+116,2021-09-19,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,7.0,Lease
+117,2024-07-17,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,11.0,Full Cash
+118,2019-05-30,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.0,Full Cash
+119,2022-12-20,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,255000,7.5,Finance
+120,2023-04-22,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.0,Lease
+121,2024-03-10,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,5.0,Full Cash
+122,2022-11-30,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,250000,6.0,Finance
+123,2021-06-18,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,405000,7.0,Lease
+124,2020-04-25,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,490000,2.0,Cryptocurrency
+125,2023-12-14,Huracán,EVO,Green,London,UK,Lambo London,3,270000,0.0,Finance
+126,2021-03-02,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,2,235000,6.0,Lease
+127,2024-01-08,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,435000,9.0,Full Cash
+128,2019-07-22,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,455000,3.5,Full Cash
+129,2022-09-26,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,260000,8.0,Finance
+130,2023-03-20,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+131,2024-05-12,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.5,Full Cash
+132,2022-08-17,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,6.0,Finance
+133,2021-12-24,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.0,Lease
+134,2020-03-02,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.0,Cryptocurrency
+135,2023-09-12,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+136,2021-07-14,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,240000,6.0,Lease
+137,2024-06-26,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+138,2019-11-19,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.5,Full Cash
+139,2022-10-06,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,250000,7.0,Finance
+140,2023-02-03,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.5,Lease
+141,2024-02-28,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,6.0,Full Cash
+142,2022-11-10,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,255000,5.0,Finance
+143,2021-06-16,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,420000,8.0,Lease
+144,2020-10-12,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,495000,1.0,Cryptocurrency
+145,2023-12-18,Huracán,EVO,Green,London,UK,Lambo London,2,270000,0.0,Finance
+146,2021-09-21,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,7.5,Lease
+147,2024-07-19,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,11.0,Full Cash
+148,2019-05-31,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.0,Full Cash
+149,2022-12-21,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,255000,7.5,Finance
+150,2023-04-23,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.5,Lease
+151,2024-03-11,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,5.0,Full Cash
+152,2022-11-01,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,250000,6.5,Finance
+153,2021-06-20,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,410000,7.0,Lease
+154,2020-04-30,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.5,Cryptocurrency
+155,2023-12-20,Huracán,EVO,Green,London,UK,Lambo London,2,275000,0.0,Finance
+156,2021-03-05,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,5.5,Lease
+157,2024-01-10,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,9.0,Full Cash
+158,2019-07-25,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,460000,3.0,Full Cash
+159,2022-09-28,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,260000,7.5,Finance
+160,2023-03-22,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+161,2024-05-15,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.0,Full Cash
+162,2022-08-21,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,6.0,Finance
+163,2021-12-28,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.5,Lease
+164,2020-03-05,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.0,Cryptocurrency
+165,2023-09-16,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+166,2021-07-18,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,4,240000,6.0,Lease
+167,2024-06-30,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+168,2019-12-02,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,3,460000,3.5,Full Cash
+169,2022-10-10,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,250000,6.5,Finance
+170,2023-02-06,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+171,2024-03-14,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,5.0,Full Cash
+172,2022-11-13,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,5.5,Finance
+173,2021-06-22,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,420000,7.5,Lease
+174,2020-10-15,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,495000,1.5,Cryptocurrency
+175,2023-12-21,Huracán,EVO,Green,London,UK,Lambo London,2,270000,0.0,Finance
+176,2021-09-25,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,7.0,Lease
+177,2024-07-23,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,11.0,Full Cash
+178,2019-06-04,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.0,Full Cash
+179,2022-12-25,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,255000,7.5,Finance
+180,2023-04-28,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.5,Lease
+181,2024-03-15,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,5.0,Full Cash
+182,2022-11-04,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,250000,6.0,Finance
+183,2021-06-25,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,405000,7.0,Lease
+184,2020-05-05,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,490000,2.0,Cryptocurrency
+185,2023-12-25,Huracán,EVO,Green,London,UK,Lambo London,3,270000,0.0,Finance
+186,2021-03-10,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,2,235000,6.0,Lease
+187,2024-01-12,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,435000,9.0,Full Cash
+188,2019-08-01,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,455000,3.5,Full Cash
+189,2022-10-01,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,260000,8.0,Finance
+190,2023-03-25,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+191,2024-05-20,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.5,Full Cash
+192,2022-08-26,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,6.0,Finance
+193,2021-12-30,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.0,Lease
+194,2020-03-10,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.5,Cryptocurrency
+195,2023-09-20,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+196,2021-07-22,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,240000,5.5,Lease
+197,2024-07-01,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+198,2019-12-05,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.5,Full Cash
+199,2022-10-15,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,250000,6.5,Finance
+200,2023-02-10,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+201,2024-03-18,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,5.0,Full Cash
+202,2022-11-08,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,250000,6.5,Finance
+203,2021-06-28,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,410000,7.0,Lease
+204,2020-04-05,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.5,Cryptocurrency
+205,2023-12-26,Huracán,EVO,Green,London,UK,Lambo London,2,275000,0.0,Finance
+206,2021-03-12,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,5.5,Lease
+207,2024-01-17,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,9.0,Full Cash
+208,2019-07-30,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,460000,3.0,Full Cash
+209,2022-10-01,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,260000,7.5,Finance
+210,2023-03-27,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+211,2024-05-18,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.0,Full Cash
+212,2022-08-25,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,6.0,Finance
+213,2021-12-29,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.5,Lease
+214,2020-03-11,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.0,Cryptocurrency
+215,2023-09-18,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+216,2021-07-20,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,4,240000,6.0,Lease
+217,2024-06-28,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+218,2019-12-04,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,3,460000,3.5,Full Cash
+219,2022-10-11,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,250000,6.5,Finance
+220,2023-02-07,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+221,2024-03-19,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,5.0,Full Cash
+222,2022-11-14,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,5.5,Finance
+223,2021-06-23,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,420000,7.5,Lease
+224,2020-10-14,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,495000,1.5,Cryptocurrency
+225,2023-12-19,Huracán,EVO,Green,London,UK,Lambo London,2,270000,0.0,Finance
+226,2021-09-27,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,7.0,Lease
+227,2024-07-22,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,11.0,Full Cash
+228,2019-06-03,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.0,Full Cash
+229,2022-12-26,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,255000,7.5,Finance
+230,2023-04-30,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.5,Lease
+231,2024-03-14,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,5.0,Full Cash
+232,2022-11-03,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,250000,6.0,Finance
+233,2021-06-27,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,405000,7.0,Lease
+234,2020-05-04,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,490000,2.0,Cryptocurrency
+235,2023-12-27,Huracán,EVO,Green,London,UK,Lambo London,3,270000,0.0,Finance
+236,2021-03-11,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,2,235000,6.0,Lease
+237,2024-01-11,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,435000,9.0,Full Cash
+238,2019-08-02,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,455000,3.5,Full Cash
+239,2022-10-02,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,260000,8.0,Finance
+240,2023-03-26,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+241,2024-05-19,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.5,Full Cash
+242,2022-08-27,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,6.0,Finance
+243,2021-12-31,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.0,Lease
+244,2020-03-12,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.5,Cryptocurrency
+245,2023-09-21,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+246,2021-07-21,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,240000,5.5,Lease
+247,2024-07-02,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+248,2019-12-06,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.5,Full Cash
+249,2022-10-16,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,250000,6.5,Finance
+250,2023-02-11,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+251,2024-03-20,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,5.0,Full Cash
+252,2022-11-10,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,255000,6.5,Finance
+253,2021-06-30,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,410000,7.0,Lease
+254,2020-04-10,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.5,Cryptocurrency
+255,2023-12-30,Huracán,EVO,Green,London,UK,Lambo London,2,275000,0.0,Finance
+256,2021-03-15,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,5.5,Lease
+257,2024-01-20,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,9.0,Full Cash
+258,2019-08-05,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,460000,3.0,Full Cash
+259,2022-10-05,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,260000,7.5,Finance
+260,2023-03-30,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+261,2024-05-20,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.0,Full Cash
+262,2022-08-30,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,6.0,Finance
+263,2021-12-31,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.5,Lease
+264,2020-03-15,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.0,Cryptocurrency
+265,2023-09-20,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+266,2021-07-25,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,4,240000,6.0,Lease
+267,2024-06-30,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+268,2019-12-10,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,3,460000,3.5,Full Cash
+269,2022-10-15,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,250000,6.5,Finance
+270,2023-04-02,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+271,2024-03-15,Urus,Base,Red,New York,USA,Lamborghini Miami,1,215000,5.0,Full Cash
+272,2022-11-08,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,5.5,Finance
+273,2021-06-25,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,4,420000,7.5,Lease
+274,2020-10-18,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,495000,1.5,Cryptocurrency
+275,2023-12-22,Huracán,EVO,Green,London,UK,Lambo London,2,270000,0.0,Finance
+276,2021-09-30,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,235000,7.0,Lease
+277,2024-07-25,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,430000,11.0,Full Cash
+278,2019-06-07,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.0,Full Cash
+279,2022-12-29,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,255000,7.5,Finance
+280,2023-05-03,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,225000,4.5,Lease
+281,2024-03-18,Urus,Base,Red,New York,USA,Lamborghini Miami,2,215000,5.0,Full Cash
+282,2022-11-12,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,1,250000,6.0,Finance
+283,2021-06-29,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,405000,7.0,Lease
+284,2020-05-08,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,490000,2.0,Cryptocurrency
+285,2023-12-28,Huracán,EVO,Green,London,UK,Lambo London,3,270000,0.0,Finance
+286,2021-03-14,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,2,235000,6.0,Lease
+287,2024-01-13,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,435000,9.0,Full Cash
+288,2019-08-04,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,1,455000,3.5,Full Cash
+289,2022-10-04,Huracán,EVO,White,Munich,Germany,Lambo Berlin,2,260000,8.0,Finance
+290,2023-03-29,Urus,S,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+291,2024-05-22,Urus,Base,Red,New York,USA,Lamborghini Miami,1,220000,5.5,Full Cash
+292,2022-08-28,Huracán,Performante,Yellow,Berlin,Germany,Lambo Berlin,2,255000,6.0,Finance
+293,2021-12-28,Revuelto,S,Black,Mumbai,India,Lamborghini Mumbai,3,415000,7.0,Lease
+294,2020-03-18,Aventador,SVJ,White,Dubai,UAE,Lamborghini Dubai,1,485000,2.5,Cryptocurrency
+295,2023-09-22,Huracán,EVO,Green,London,UK,Lambo London,2,265000,0.0,Finance
+296,2021-07-23,Urus,S,Blue,Bangalore,India,Lamborghini Delhi,3,240000,5.5,Lease
+297,2024-07-04,Aventador,Base,Red,Los Angeles,USA,Lambo LA,1,425000,10.0,Full Cash
+298,2019-12-08,Revuelto,SVJ,Yellow,Abu Dhabi,UAE,Lambo Abu Dhabi,2,460000,3.5,Full Cash
+299,2022-10-18,Huracán,EVO,White,Munich,Germany,Lambo Berlin,1,250000,6.5,Finance
+300,2023-02-13,Urus,Performante,Black,Delhi,India,Lamborghini Delhi,3,230000,5.0,Lease
+
+
